@@ -1,0 +1,21 @@
+
+# !!!DONT CHANGE THIS CONFIGURATION!!!
+
+apply-all-worlds: true
+apply-world-names: write, world, name, here
+allow-seat-high-height: true
+allow-seat-upsidedown: false
+allow-seat-while-sneaking: true
+stand-up-when-break-block: true
+disable-damage-when-sit: false
+enable-check-up-block: false
+allow-only-right-click: false
+register-toggle-command: true
+toggle-command-label: sit
+send-tip-when-sit: Tap jump to exit the seat
+try-to-sit-already-inuse: This seat is used by @p
+config-version: 2
+
+author: EdoGaming
+# Subscribe: https://youtube.com/channel/UCxgGPJujtnZKYdp8k-zkGYQ
+# Follow IG @edogaming28
