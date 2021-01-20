@@ -1,3 +1,5 @@
+[](/icon.png)
+
 [![](https://poggit.pmmp.io/shield.dl.total/SitAnywhere)](https://poggit.pmmp.io/ci/EdoGaming28/SitAnywhere)
 [![](https://poggit.pmmp.io/shield.state/SitAnywhere)](https://poggit.pmmp.io/ci/EdoGaming28/SitAnywhere)
 
