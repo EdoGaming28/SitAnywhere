@@ -21,3 +21,6 @@ To cancel, jump or sneak. to cancel sit, run command /sit.
 
 ## Command
 `/sit` - Sit Anywhere By EdoGaming. To use this command, you must set `register-sit-command` in the config.yml to `true` (Permission: `sitanywhere.toggle`)
+
+## Image
+<img src="https://github.com/EdoGaming28/SitAnywhere/blob/main/icon.png">
