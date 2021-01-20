@@ -1,7 +1,6 @@
-<h1>Sit Anywhere<img src="https://github.com/EdoGaming28/SitAnywhere/blob/main/icon.png" height="64" width="64" align="left" alt=""></h1><br>
+<h1>Sit Anywhere<img src="https://github.com/EdoGaming28/SitAnywhere/blob/main/icon.png" height="50" width="50" align="left" alt=""></h1><br>
 
 [![](https://poggit.pmmp.io/shield.state/SitAnywhere)](https://poggit.pmmp.io/p/SitAnywhere)
-<a href="https://poggit.pmmp.io/p/SitAnywhere"><img src="https://github.com/EdoGaming28/SitAnywhere/blob/main/icon.png"></a>
 
 ## Sit Anywhere
 **Sit anywhere by clicking the block**
