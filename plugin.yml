@@ -1,0 +1,13 @@
+---
+name: SitAnywhere
+api: 3.0.0
+main: EdoGaming\Sit\Sit
+version: 1.0.0
+author: EdoGaming
+website: "https://youtube.com/channel/UCxgGPJujtnZKYdp8k-zkGYQ"
+mcpe-protocol: 422
+permissions:
+  sitanywhere.toggle:
+    description: "sit anywhere"
+    default: true
+...
